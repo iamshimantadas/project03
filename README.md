@@ -1,6 +1,7 @@
 # project03
 Educational college theme
-hi guys, I , Shimanta Das, the modifier of this project . This project title is - educational website set 1.
+
+Hi guys, I , Shimanta Das, the modifier of this project . This project title is - educational website set 1.
 
 * project - 
 college - youth college
